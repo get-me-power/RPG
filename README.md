@@ -5,11 +5,14 @@
 ## 実行方法
 
 1
+srcフォルダに移動する
+
+2
 
 ```shell
 $ javac Main.java
 ```
-2
+3
 
 ```shell
 $ java Main
