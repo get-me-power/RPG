@@ -74,7 +74,7 @@ public class StatusAction{
 					hiranotentyo.refCount = refCount;
 					hiranotentyo.donutsReflection();
 				}else{
-					System.out.println("デデドン！（絶望）");
+					System.out.println("分かる？適切なコマンドを突っ込めって言ってんの！！！");
 				}
 				break;
 			default:
